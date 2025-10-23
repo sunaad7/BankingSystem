@@ -1,4 +1,4 @@
-# BankingSystem
+# BankingSystemAPP
 Online Banking System
 
 This Java-based project simulates basic banking operations such as account creation, deposits, withdrawals, and fund transfers. It ensures data security and transaction accuracy.
